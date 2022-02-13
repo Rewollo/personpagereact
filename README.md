@@ -1,3 +1,20 @@
+#Персональная страница на React
+
+Пример персональной страницы с использованием фреймворка React. Итоговое задание по курсу основ React.js<br>
+Используется маршрутизация и отправка форм. Также используется сервис https://formsubmit.co/
+
+![pagereact1](https://user-images.githubusercontent.com/95663034/153779961-ab87d7b6-9a2f-46b1-841d-1a1411ec8362.gif)
+![pagereact2](https://user-images.githubusercontent.com/95663034/153779963-218ee76f-c135-4eed-8927-4df98947cfb8.gif)
+
+
+##Запуск
+
+Необходим установленный Node.js.
+
+Запустите в терминале проекта следующие команды:<br>
+npm install<br>
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
